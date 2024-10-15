@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgeDavis
-- 👀 I’m interested in learning, chess, golf and traveling
+- 👀 I’m interested in playing chess, golf and traveling
 - ✍🏻 I’m currently learning about Software Architecture and Trade-off Analysis
 - 🗣 I’m the lead engineer on a Monolith deconstruction building microservices
 - 📫 You can reach me at: trapdavisjr@gmail.com
